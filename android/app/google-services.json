@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287162229312",
+    "project_id": "cs4303-julians-lesson3",
+    "storage_bucket": "cs4303-julians-lesson3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287162229312:android:88d666118ad495aeb3f5a5",
+        "android_client_info": {
+          "package_name": "edu.uco.jshen5.cmsc4303.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287162229312-bbvfdl9ci0kesf4btr0rss14r3jso2it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPD_znPSLqDZNP_NBO14-iczLrmghtJHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287162229312-bbvfdl9ci0kesf4btr0rss14r3jso2it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
