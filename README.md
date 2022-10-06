@@ -1,16 +1,11 @@
-# lesson3
+# Photogram Mobile App
 
-A new Flutter project.
+UCO - Mobile Applications Programming <br />
+Fall 2021 (Year 4 / Semester 1) <br />
+Final Project
+ - Enhance the PhotoMemo app (from a previous lesson) by implementing required features as well as adding new creative features.
+ - Required Features: <br />
+ 1. A user is able to leave comments on a photo memo.
+ 2. A user can visually tell if someone has left a comment on their photo memo.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
