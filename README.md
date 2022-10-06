@@ -13,8 +13,16 @@ Required Features:
  2. A user can visually tell if someone has left a comment on their photo memo.
 
 Creative Features:
- 1. A user settings page is available to adjust profile picture, username, email, and password.
- 2. A public feed of photograms is available for users to scroll/view.
+ 1. A user settings page is available to adjust the profile picture, username, email, and password.
+ 2. A public feed of photograms is available for users to scroll/view/like/comment.
  3. A user is able to 'like' a photogram.
  4. A user is able to search for photograms based on keyword.
+ 5. Photograms can be shared privately between users where users can leave private comments.
+
+## Demo Links
+Required Features
+ - https://youtu.be/60-qf_VLDxk
+
+Creative Features
+ - 
  
